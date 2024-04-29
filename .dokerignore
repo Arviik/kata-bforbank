@@ -1,0 +1,9 @@
+/.idea/
+/target/
+*.iws
+*.iml
+*.ipr
+.gitignore
+docker-compose.yaml
+.dockerignore
+Dockerfile
